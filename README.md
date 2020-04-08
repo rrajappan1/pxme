@@ -7,7 +7,7 @@ Initial Mockups
 ![2. QR Code location](https://github.com/rrajappan1/pxme/blob/master/Hackathon2.jpg)
 ![3. Add Me](https://github.com/rrajappan1/pxme/blob/master/Hackathon3.jpg)
 
-#Inspiration
+# Inspiration
 https://www.cnn.com/2020/03/26/us/new-york-coronavirus-explainer/index.html New York is the epicenter for now, but Covid-19 will not stop there.
 
 The first and most obvious explanation for the severity of the area's outbreak is that New York is the largest and most densely populated city in the US, and coronavirus tends to spread in dense places.
